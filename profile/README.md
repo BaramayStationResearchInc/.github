@@ -21,13 +21,13 @@ We are proud to announce the public release of
 - **Zenodo DOI Archive:** [10.5281/zenodo.17882467](https://zenodo.org/records/17882467)
 -  ### Permanent Archive (Arweave)Permanent Archival Announcement
 -  Immutable blockchain record of *TetraKlein: The Unified Architecture*  
-###[ArDrive PDF https://app.ardrive.io/#/file/8bc96a4f-0e38-4dae-a095-12515fd39250/view](https://app.ardrive.io/#/file/8bc96a4f-0e38-4dae-a095-12515fd39250/view)  
+ [ArDrive PDF https://app.ardrive.io/#/file/8bc96a4f-0e38-4dae-a095-12515fd39250/view](https://app.ardrive.io/#/file/8bc96a4f-0e38-4dae-a095-12515fd39250/view)  
 
-###[Arweave Transaction Explorer https://viewblock.io/arweave/tx/PYBnHpZSJ51O5kcRPEDSEv_Vbr0Gm5uOP6qGJBEfSPA](https://viewblock.io/arweave/tx/PYBnHpZSJ51O5kcRPEDSEv_Vbr0Gm5uOP6qGJBEfSPA)
+ [Arweave Transaction Explorer https://viewblock.io/arweave/tx/PYBnHpZSJ51O5kcRPEDSEv_Vbr0Gm5uOP6qGJBEfSPA](https://viewblock.io/arweave/tx/PYBnHpZSJ51O5kcRPEDSEv_Vbr0Gm5uOP6qGJBEfSPA)
 
-###https://viewblock.io/arweave/tx/PGOAZgYLwW564dnZilYdBnGk0Un5PcVVWKYQyeEzfTI
+https://viewblock.io/arweave/tx/PGOAZgYLwW564dnZilYdBnGk0Un5PcVVWKYQyeEzfTI
 
-###[Arweave Mirror https://hwagohuwkitz2txgi4ityqgscl75k3v5a2nzxdr7vkdciei7jdya.arweave.net/PYBnHpZSJ51O5kcRPEDSEv_Vbr0Gm5uOP6qGJBEfSPA](https://hwagohuwkitz2txgi4ityqgscl75k3v5a2nzxdr7vkdciei7jdya.arweave.net/PYBnHpZSJ51O5kcRPEDSEv_Vbr0Gm5uOP6qGJBEfSPA)
+[Arweave Mirror https://hwagohuwkitz2txgi4ityqgscl75k3v5a2nzxdr7vkdciei7jdya.arweave.net/PYBnHpZSJ51O5kcRPEDSEv_Vbr0Gm5uOP6qGJBEfSPA](https://hwagohuwkitz2txgi4ityqgscl75k3v5a2nzxdr7vkdciei7jdya.arweave.net/PYBnHpZSJ51O5kcRPEDSEv_Vbr0Gm5uOP6qGJBEfSPA)
 
 © 2025 Baramay Station Research Inc. — Released under CC-BY-4.0 / MIT / Apache-2.0
 
