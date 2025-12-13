@@ -19,12 +19,9 @@ All repositories are non-production, non-functional, and intended solely for aca
 We are proud to announce the public release of  
 - **ResearchGate Publication:** [TetraKlein: A Unified Architecture](https://www.researchgate.net/publication/398601206_TetraKlein_A_Unified_Architecture)  
 - **Zenodo DOI Archive:** [10.5281/zenodo.17882467](https://zenodo.org/records/17882467)
--
 -  ### Permanent Archive (Arweave)Permanent Archival Announcement
 -  Immutable blockchain record of *TetraKlein: The Unified Architecture*  
-
 [ArDrive PDF https://app.ardrive.io/#/file/8bc96a4f-0e38-4dae-a095-12515fd39250/view](https://app.ardrive.io/#/file/8bc96a4f-0e38-4dae-a095-12515fd39250/view)  
-
 
 [Arweave Transaction Explorer https://viewblock.io/arweave/tx/PYBnHpZSJ51O5kcRPEDSEv_Vbr0Gm5uOP6qGJBEfSPA](https://viewblock.io/arweave/tx/PYBnHpZSJ51O5kcRPEDSEv_Vbr0Gm5uOP6qGJBEfSPA)
 
