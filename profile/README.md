@@ -19,6 +19,26 @@ All repositories are non-production, non-functional, and intended solely for aca
 We are proud to announce the public release of  
 - **ResearchGate Publication:** [TetraKlein: A Unified Architecture](https://www.researchgate.net/publication/398601206_TetraKlein_A_Unified_Architecture)  
 - **Zenodo DOI Archive:** [10.5281/zenodo.17882467](https://zenodo.org/records/17882467)
+- a **1,600-page research-grade framework** integrating:
+- Post-Quantum Cryptography (PQC)
+- Zero-Knowledge Proof Systems (ZK-STARK / IVC)
+- Deterministic Virtual Machines (zkVM)
+- Extended Reality (XR) Physics Modeling
+- Digital Twin Convergence (DTC)
+- Multidimensional Hypercube Ledger Mathematics (HBB)
+
+This monograph represents two years of independent R&D conducted at  
+**Baramay Station Research Inc.** — a Canadian nonprofit laboratory dedicated to early-stage exploration of advanced cryptography, simulation systems, and distributed computation.
+### Summary
+*TetraKlein* defines a unified computational substrate designed for mid–21st-century digital infrastructure —  
+a mathematically verifiable system that integrates post-quantum security, recursive proof verification, and XR-based global-state synchronization.
+
+> “Can we design a provably trustworthy computational substrate — one that unifies post-quantum, zero-knowledge, and XR physics into a single verifiable framework?”
+
+All research content is released under:
+- **CC-BY-4.0** (mathematical and scientific text)  
+- **MIT / Apache-2.0** (software components)  
+
  ## (Arweave) Permanent Archival Announcement
  Immutable blockchain record of *TetraKlein: The Unified Architecture*  
  [ArDrive PDF https://app.ardrive.io/#/file/8bc96a4f-0e38-4dae-a095-12515fd39250/view](https://app.ardrive.io/#/file/8bc96a4f-0e38-4dae-a095-12515fd39250/view)  
