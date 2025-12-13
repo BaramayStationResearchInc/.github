@@ -1,6 +1,9 @@
 # Baramay Station Research Inc.
 ### Nonprofit Research Organization • Saskatchewan, Canada
 
+[![Zenodo](https://img.shields.io/badge/Zenodo-Baramay%20Station-blue?style=flat&logo=zenodo)](https://zenodo.org/communities/baramaystationresearchinc)
+
+
 Baramay Station Research Inc. is a Canadian nonprofit dedicated to early-stage exploration of advanced computing, cryptography, and distributed systems. Our work focuses on foundational research, prototyping, and open-science publication supporting future technologies in secure computation and digital infrastructure.
 
 This GitHub organization hosts concept prototypes, research notes, and experimental software artifacts developed through Baramay Station’s ongoing exploratory work.
@@ -8,6 +11,28 @@ This GitHub organization hosts concept prototypes, research notes, and experimen
 All repositories are non-production, non-functional, and intended solely for academic and experimental purposes.
 
 ---
+
+## Latest Research Publication — *TetraKlein: A Unified Architecture*
+
+**Official Research Release — December 9 2025**
+
+We are proud to announce the public release of  
+- **ResearchGate Publication:** [TetraKlein: A Unified Architecture](https://www.researchgate.net/publication/398601206_TetraKlein_A_Unified_Architecture)  
+- **Zenodo DOI Archive:** [10.5281/zenodo.17882467](https://zenodo.org/records/17882467)
+- Permanent Archival Announcement
+-  Immutable blockchain record of *TetraKlein: The Unified Architecture*  
+
+[ArDrive PDF https://app.ardrive.io/#/file/8bc96a4f-0e38-4dae-a095-12515fd39250/view](https://app.ardrive.io/#/file/8bc96a4f-0e38-4dae-a095-12515fd39250/view)  
+
+
+[Arweave Transaction Explorer https://viewblock.io/arweave/tx/PYBnHpZSJ51O5kcRPEDSEv_Vbr0Gm5uOP6qGJBEfSPA](https://viewblock.io/arweave/tx/PYBnHpZSJ51O5kcRPEDSEv_Vbr0Gm5uOP6qGJBEfSPA)
+
+https://viewblock.io/arweave/tx/PGOAZgYLwW564dnZilYdBnGk0Un5PcVVWKYQyeEzfTI
+
+[Arweave Mirror https://hwagohuwkitz2txgi4ityqgscl75k3v5a2nzxdr7vkdciei7jdya.arweave.net/PYBnHpZSJ51O5kcRPEDSEv_Vbr0Gm5uOP6qGJBEfSPA](https://hwagohuwkitz2txgi4ityqgscl75k3v5a2nzxdr7vkdciei7jdya.arweave.net/PYBnHpZSJ51O5kcRPEDSEv_Vbr0Gm5uOP6qGJBEfSPA)
+
+© 2025 Baramay Station Research Inc. — Released under CC-BY-4.0 / MIT / Apache-2.0
+
 
 ## Current Research Themes
 
